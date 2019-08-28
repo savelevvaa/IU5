@@ -6,7 +6,7 @@
 
 1. [Программирование на основе классов и шаблонов](https://github.com/dlnwlkmn/IU5/tree/master/Term%202/Programming%20based%20on%20classes%20and%20templates)
 2. [Интегралы и Диффуры](https://github.com/dlnwlkmn/IU5/tree/master/Term%202/Integrals%20and%20Diffs)
-3. Физика
+3. [Физика](https://github.com/dlnwlkmn/IU5/tree/master/Term%202/Physics)
 4. Инженерная графика
 5. [Английский язык](https://github.com/dlnwlkmn/IU5/tree/master/Term%202/English)
 6. Линейная алгебра
