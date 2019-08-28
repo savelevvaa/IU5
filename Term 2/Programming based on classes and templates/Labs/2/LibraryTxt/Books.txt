@@ -1,0 +1,6 @@
+Books|BookID
+Author|String|12|BookID|Int32|8|Number|Int32|8|Quantity|Int32|8|Title|String|16
+     Yalovuk|       1|      21|     100|      Metodichka
+   Akhmetova|       2|      49|      50|           MatAn
+      Kozlov|       3|      11|      35|       Holly C++
+         Pak|       4|       2|      15|   KoreanHistory

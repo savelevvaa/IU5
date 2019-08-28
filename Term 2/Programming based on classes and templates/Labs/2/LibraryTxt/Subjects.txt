@@ -1,0 +1,7 @@
+Subjects|SubjectsID
+Subject|String|16|SubjectID|Int32|8
+         Grafics|       1
+            Math|       2
+     Programming|       3
+         History|       4
+         Physics|       5
