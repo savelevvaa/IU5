@@ -1,0 +1,12 @@
+Students|StudentID
+Group|String|8|Name|String|16|StudentID|Int32|8
+  IU5-21|          Petrov|       1
+ MT11-24|         Sidorov|       2
+  IU5-24|        Savelyev|       3
+  IU5-24|        Samoylov|       4
+  IU5-24|             Lee|       5
+  FN4-22|          Rankov|       6
+  RL3-24|          Dudina|       7
+ BMT4-26|        Serginov|       8
+   Ý5-23|        Transnov|       9
+  SM7-24|         Spetsov|      10
