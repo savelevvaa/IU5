@@ -1,0 +1,7 @@
+Products|ProductID
+Description|String|11|ProductID|Int32|9|UnitInStock|Int32|12|UnitPriceIn|Double|12|UnitProfitness|Double|14
+    Kolbasa|      10|      32|         280|          28
+        Syr|      11|      19|         120|          12
+       Eggs|      12|      10|          90|           9
+   Big Cake|      13|      12|        1350|         135
+ ChupaChups|      14|      66|           9|         0.9

@@ -1,0 +1,5 @@
+TableRelations|RelationName
+ChildSecondaryKey|String|12|ChildTable|String|14|ParentPrimaryKey|String|12|ParentTable|String|14|RelationName|String|20
+     OrderID|  OrderDetails|     OrderID|        Orders|  OrderDetailsOrders
+     OrderID|  OrderDetails|   ProductID|      Products|OrderDetailsProducts
+  CustomerID|        Orders|  CustomerID|     Customers|     OrdersCustomers

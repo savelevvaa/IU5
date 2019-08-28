@@ -1,0 +1,8 @@
+Customers|CustomerID
+CompanyName|String|18|ContactName|String|12|CustomerID|Int32|10
+       OOO "PLANT"|     Fedorov|       2
+      OAO "Region"|       Babko|       3
+ OOO "PromVtorHoz"|     Segurin|       4
+    OAO "STRIYBAT"|   Plotnikov|       5
+      OOO "Zvezda"|      Zverev|       6
+        ŒŒŒ "¿¿¿¿"|     Rachkov|       7
